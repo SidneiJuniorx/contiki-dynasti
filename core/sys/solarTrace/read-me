@@ -1,0 +1,7 @@
+ARIKER AT DEI.UC.PT
+UNIVERSIDADE DE COIMBRA
+These files (day1.c, day2.c, ..., day10.c) contains values of solar irradiance in micro-Watt/cm2.
+The solar_array has 158 values which correspond to the average irradiance measured during 5 minutes.
+In total, the solar trace cover 156x5=780 minutes of sun linght, which is 13 hours.
+
+

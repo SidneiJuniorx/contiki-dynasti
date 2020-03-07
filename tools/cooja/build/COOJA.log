@@ -1,0 +1,26 @@
+[18:36:38 - AWT-EventQueue-0] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[18:36:38 - AWT-EventQueue-0] [Cooja.java:2886] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[18:36:48 - Thread-0] [Simulation.java:421] [INFO] - Simulation random seed: 136136
+[18:36:49 - AWT-EventQueue-0] [Simulation.java:421] [INFO] - Simulation random seed: 136136
+[18:36:52 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-server.wismote TARGET=wismote 
+[18:36:55 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-client.wismote TARGET=wismote 
+[18:36:56 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-server.wismote
+[18:36:57 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:58 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:58 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:58 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:58 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:58 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:58 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:58 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:58 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:58 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:59 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:59 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/contiki/examples/ipv6/rpl-udp/udp-client.wismote
+[18:36:59 - Thread-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[18:37:00 - Thread-0] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[18:37:22 - AWT-EventQueue-0] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[18:37:22 - Thread-6] [Simulation.java:421] [INFO] - Simulation random seed: 136136
+[18:37:24 - AWT-EventQueue-0] [Simulation.java:421] [INFO] - Simulation random seed: 136136
+[18:37:26 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=wismote 
+[18:37:26 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-server.wismote TARGET=wismote 

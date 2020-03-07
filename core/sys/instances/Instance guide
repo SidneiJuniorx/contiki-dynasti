@@ -1,0 +1,33 @@
+Instance 10 - Envia mensagens de aplicação a cada 5 minutos - Segundos 300 - 150
+Instance 20 - Envia mensagens de aplicação a cada 3 minutos - Segundos 180 - 90
+Instance 30 - Envia mensagens de aplicação a cada 3 minutos - Segundos 180 - 90
+Instance 40 - Envia mensagens de aplicação a cada 7 minutos - Segundos 420 - 210
+Instance 50 - Envia mensagens de aplicação a cada 5 minutos - Segundos 300 - 150
+
+-------------------------
+Schedule 1:
+-------------------------
+instance_10 Client standard
+-------------------------
+
+-------------------------
+Schedule 2:
+-------------------------
+instance_40(CLOCK_SECOND * 7);
+instance_20(CLOCK_SECOND * 3);
+-------------------------
+
+-------------------------
+Schedule 3:
+-------------------------
+instance_40(CLOCK_SECOND * 7);
+instance_30(CLOCK_SECOND * 3);
+-------------------------
+
+-------------------------
+Schedule 4:
+-------------------------
+instance_40(CLOCK_SECOND * 7);
+instance_50(CLOCK_SECOND * 5);
+instance_30(CLOCK_SECOND * 3);
+-------------------------
